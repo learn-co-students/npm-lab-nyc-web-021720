@@ -1,0 +1,11 @@
+{
+	"name": "clock",
+	"version": "1.0.0",
+	"description": "clock",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo 'Hello World!'"
+	},
+	"author": "",
+	"license": "ISC"
+}
